@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://AVAnnotate.github.io/seven-hbusby/manifests/collection.json","type":"Collection","label":{"en":["Seven Poem Annotated by Harriet Busby"]},"items":[{"id":"https://AVAnnotate.github.io/seven-hbusby/manifests/seven-poem.json","type":"Manifest","label":{"en":["Seven Poem"]}}]}
