@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-04T20:31:22.257Z",
+  "created_by": "saamturner",
+  "title": "Seven Poem",
+  "slug": "seven-poem",
+  "updated_at": "2025-04-04T20:31:22.257Z",
+  "updated_by": "saamturner",
+  "parent": "c5b85e10-5113-45e8-a1ef-a32714e6f173",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "284a9739-faf6-4c16-a571-4a7909e794c5"
+  }
+}
