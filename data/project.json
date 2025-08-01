@@ -1,1 +1,122 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[],"project":{"github_org":"AVAnnotate","is_private":false,"title":"Seven Poem Annotated by Harriet Busby","description":"This project analyzes the poem “Seven” by Taylor Swift. Seven is a poem that was first released in 2022. The poem “Seven” reimagines the narrator as a younger version of themselves and how youth is remembered. The poem debuted as a recorded interlude/transition between the Red and Folklore segments in Swift's wildly successful Era’s Tour. The poem was produced to reach a mass audience at a pop culture event. Its origins are essential to the listening experience because of how it was created and how it was meant to be heard. The poem was designed to be heard sonically by millions of people as an interlude, so the sonic elements of this poem are essential, despite being created for the Era’s tour. The poem was removed from the tour after the American leg concluded, and it was not included in the Eras tour film, which featured the entire concert.","language":"en","slug":"seven-hbusby","creator":"saamturner","authors":"Harriet Busby","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[{"login_name":"Hbusby","avatar_url":"https://avatars.githubusercontent.com/u/200667323?v=4","admin":false}],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"category":"Form","color":"#ADFEFF"},{"category":"Performance","color":"#99E6FF"},{"category":"Extra-Poetic Sounds","color":"#88C9F2"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Tempo","category":"Performance"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"},{"tag":"Technical Sounds","category":"Extra-Poetic Sounds"},{"tag":"Speech","category":"Extra-Poetic Sounds"},{"tag":"Ambient Noise","category":"Extra-Poetic Sounds"},{"tag":"Audience Sounds","category":"Extra-Poetic Sounds"}]},"created_at":"2025-04-04T20:28:46.728Z","updated_at":"2025-05-08T01:19:36.241Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "is_private": false,
+    "title": "Seven Poem Annotated by Harriet Busby",
+    "description": "This project analyzes the poem “Seven” by Taylor Swift. Seven is a poem that was first released in 2022. The poem “Seven” reimagines the narrator as a younger version of themselves and how youth is remembered. The poem debuted as a recorded interlude/transition between the Red and Folklore segments in Swift's wildly successful Era’s Tour. The poem was produced to reach a mass audience at a pop culture event. Its origins are essential to the listening experience because of how it was created and how it was meant to be heard. The poem was designed to be heard sonically by millions of people as an interlude, so the sonic elements of this poem are essential, despite being created for the Era’s tour. The poem was removed from the tour after the American leg concluded, and it was not included in the Eras tour film, which featured the entire concert.",
+    "language": "en",
+    "slug": "seven-hbusby",
+    "creator": "saamturner",
+    "authors": "Harriet Busby",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "ProfMOD",
+        "avatar_url": "https://avatars.githubusercontent.com/u/121900834?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ]
+    },
+    "created_at": "2025-04-04T20:28:46.728Z",
+    "updated_at": "2025-08-01T19:42:25.973Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
